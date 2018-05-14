@@ -14,7 +14,12 @@ import java.util.Stack;
  * - evalPosfijo, que evalúa una expresión en posfijo
  *
  * @authors Carlos Cuesta / Cristian Echeverri 
- * Git: cristianecheveri
+ * Git: cristianecheverri 
+ * Tercer proyecto Estructuras de datos 
+ * Ingeniería en informática 
+ * Tercer semestre 
+ * Universidad de Caldas - Colombia 
+ * Docente: Carlos Cuesta Iglesias
  */
 
 /*

@@ -13,7 +13,13 @@ import javax.swing.*;
 /**
  * Interfaz de la calculadora científica
  *
- * @author Cristian Camilo Echeverri Git: cristianecheverri
+ * @author Cristian Camilo Echeverri 
+ * Git: cristianecheverri 
+ * Tercer proyecto Estructuras de datos 
+ * Ingeniería en informática 
+ * Tercer semestre 
+ * Universidad de Caldas - Colombia 
+ * Docente: Carlos Cuesta Iglesias
  *
  */
 public class FrmCalculadora extends JFrame {

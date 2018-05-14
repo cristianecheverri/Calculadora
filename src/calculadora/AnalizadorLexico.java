@@ -6,6 +6,12 @@ import java.util.ArrayList;
  * Determina si la expresión está bien escrita
  *
  * @author Cristian Camilo Echeverri
+ * Git: cristianecheverri 
+ * Tercer proyecto Estructuras de datos 
+ * Ingeniería en informática 
+ * Tercer semestre 
+ * Universidad de Caldas - Colombia 
+ * Docente: Carlos Cuesta Iglesias
  *
  */
 public class AnalizadorLexico {
